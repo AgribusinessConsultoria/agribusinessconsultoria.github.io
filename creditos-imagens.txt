@@ -1,22 +1,16 @@
-Imagens e vídeos do site v5 - fonte e licença (atualizado em 17/11/2026)
+Imagens e vídeos do site v5 - fonte e licença (atualizado em 17/11/2026, noite)
 
 1) Fotos reais do Jean Santos (fonte: Agribusiness > 03. Material comercial > 01. Institucional > Fotos do site)
 Uso próprio. Arquivos otimizados para a web (até 1600 px):
-- real-01.jpg (Lavoura de soja, 30/01/2021): Quem somos (galeria)
-- real-03.jpg (Terminal de contêineres, 23/09/2021): Quem somos (galeria)
 - real-04.jpg (Terminal de contêineres, 23/09/2021): Consultoria, pilar Reestruturação
-- real-05.jpg (Gado de leite, 16/12/2021): Quem somos (galeria)
-- real-06.jpg (Interleite, 03/08/2022): Quem somos (galeria)
-- real-07.jpg (PorkExpo, 26/10/2022): Quem somos (galeria)
-- real-08.jpg (MBA, Agrinvest, 26/04/2024): Quem somos, O fundador
-- real-15.jpg (Lavoura de sorgo, 10/06/2025): Consultoria, pilar Expansão; Quem somos (galeria)
-- real-16.jpg (Lavoura de sorgo, 10/06/2025): Início (card Consultoria); Quem somos (primeira tela)
-- real-18.jpg (Treinamento DISC, 28/05/2026): Início (card Treinamentos); faixa final de Treinamentos
-- real-19.jpg (Treinamento DISC, 28/05/2026): Treinamentos (primeira tela)
-- real-20.jpg (Treinamento DISC, 28/05/2026): Consultoria, pilar Mentoria e líderes
-- real-21.jpg (Treinamento DISC, 28/05/2026): Treinamentos, card da Trilha 4
+- real-15.jpg (Lavoura de sorgo, 10/06/2025): Consultoria, pilar Expansão
+- real-16.jpg (Lavoura de sorgo, 10/06/2025): Início (card Consultoria); Quem somos (primeira tela, recortada em quem-somos-topo.jpg)
+- disc-18.jpg (Treinamento DISC, 28/05/2026, roupa, calçado e parede editados no Gemini; rosto original): Início (card Treinamentos)
+- disc-19.jpg (Treinamento DISC, 28/05/2026, roupa, calçado e parede editados no Gemini; rosto original): Treinamentos (primeira tela)
+- disc-20.jpg (Treinamento DISC, 28/05/2026, roupa, calçado e parede editados no Gemini; rosto original): Consultoria, pilar Mentoria e líderes
+- disc-21.jpg (Treinamento DISC, 28/05/2026, roupa, calçado e parede editados no Gemini; rosto original): Treinamentos, card da Trilha 4
 - jean-azul.jpg (retrato de blazer azul, da primeira apresentação institucional): Quem somos, O fundador
-Não usadas no site: 02, 09, 10, 11, 12, 13, 14 (ensaio), 17 (Somos Coop, resolução baixa).
+Não usadas no site: 01, 02, 03, 05, 06, 07, 08 (MBA, em stand-by), 09, 10, 11, 12, 13, 14 (ensaio), 17 (Somos Coop, resolução baixa).
 
 2) Banco de imagens Pexels (pexels.com), licença Pexels: uso gratuito, inclusive comercial, sem obrigação de atribuição.
 Vídeo da primeira tela (assets/hero.mp4, trechos de 3 s cada):
@@ -28,6 +22,8 @@ Vídeo da primeira tela (assets/hero.mp4, trechos de 3 s cada):
 - Colheita de café: https://www.pexels.com/video/35048079/
 - Avicultura / nutrição animal: https://www.pexels.com/video/39703650/
 - Gráficos de mercado: https://www.pexels.com/video/39020626/
-Quadros desses vídeos usados como foto: soja-colheita (também primeira tela de Contato), milho, silos, cafe, nutricao, mercado (cards "Para quem", Trilhas 1 a 3 e faixas de chamada).
+Quadros desses vídeos usados como foto: soja-colheita (também primeira tela de Contato), silos, cafe, nutricao, mercado (cards "Para quem", Trilhas 1 a 3 e faixas de chamada).
 Foto: Revenda e insumos (insumos.jpg): https://www.pexels.com/photo/4956961/
-Foto: Consultora e produtor na lavoura de milho (trilha2.jpg, Trilha 2): https://www.pexels.com/photo/5216699/
+
+3) Imagem gerada por IA (Google Gemini), a partir de prompt da Agribusiness, sem pessoas reais identificáveis:
+- trilha2-gestao.jpg (reunião de margem por produto no escritório de um armazém de grãos): Treinamentos, card da Trilha 2
