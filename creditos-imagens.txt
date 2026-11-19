@@ -2,7 +2,7 @@ Imagens e vídeos do site v5 - fonte e licença (atualizado em 17/11/2026, noite
 
 1) Fotos reais do Jean Santos (fonte: Agribusiness > 03. Material comercial > 01. Institucional > Fotos do site)
 Uso próprio. Arquivos otimizados para a web (até 1600 px):
-- real-04.jpg (Terminal de contêineres, 23/09/2021): Consultoria, pilar Reestruturação
+- real-01.jpg (Lavoura de soja, 30/01/2021): Consultoria, pilar Reestruturação
 - real-15.jpg (Lavoura de sorgo, 10/06/2025): Consultoria, pilar Expansão
 - real-16.jpg (Lavoura de sorgo, 10/06/2025): Início (card Consultoria)
 - disc-18.jpg (Treinamento DISC, 28/05/2026, roupa, calçado e parede editados no Gemini; rosto original): Início (card Treinamentos)
@@ -10,7 +10,7 @@ Uso próprio. Arquivos otimizados para a web (até 1600 px):
 - disc-20.jpg (Treinamento DISC, 28/05/2026, roupa, calçado e parede editados no Gemini; rosto original): Consultoria, pilar Mentoria e líderes
 - disc-21.jpg (Treinamento DISC, 28/05/2026, roupa, calçado e parede editados no Gemini; rosto original): Treinamentos, card da Trilha 4
 - jean-azul.jpg (retrato de blazer azul, da primeira apresentação institucional): Quem somos, O fundador
-Não usadas no site: 01, 02, 03, 05, 06, 07, 08 (MBA, em stand-by), 09, 10, 11, 12, 13, 14 (ensaio), 17 (Somos Coop, resolução baixa).
+Não usadas no site: 02, 04, 03, 05, 06, 07, 08 (MBA, em stand-by), 09, 10, 11, 12, 13, 14 (ensaio), 17 (Somos Coop, resolução baixa).
 
 2) Banco de imagens Pexels (pexels.com), licença Pexels: uso gratuito, inclusive comercial, sem obrigação de atribuição.
 Vídeo da primeira tela (assets/hero.mp4, trechos de 3 s cada):

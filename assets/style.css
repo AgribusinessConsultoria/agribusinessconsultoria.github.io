@@ -284,3 +284,7 @@ h2.pil span{display:block;color:var(--ochre)}
   .mi>a{font-family:var(--serif);font-size:1.45rem;padding:22px 0}
   body.menu-open .wa-float{display:none}
 }
+
+.legal span{display:block}
+@media(min-width:861px){.legal span{display:inline}.legal span:nth-child(1):after,.legal span:nth-child(3):after{content:" · "}.legal span:nth-child(2):after{content:" "}}
+@media(max-width:860px){.legal{padding-right:84px;line-height:1.7}}
